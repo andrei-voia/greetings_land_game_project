@@ -11,9 +11,9 @@
 ## How it looks:
 
 ![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_1.png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_2png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_3png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_4png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_5png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_6png "game")
-![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_7png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_2.png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_3.png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_4.png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_5.png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_6.png "game")
+![alt text](https://github.com/andrei-voia/greetings_land_game_project/blob/master/pictures/Screenshot_7.png "game")
